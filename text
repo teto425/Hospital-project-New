@@ -1,0 +1,77 @@
+We take health care personally at MedStar hospital.
+Because excellence in health care is about more than just medicine,
+technology, tests and treatments.
+
+
+It is about really caring for people with dignity and respect.
+Thats what we do. We are dedicated to providing the best care to meat 
+the needs of people for our community, for our patients -- for you.
+
+
+col-1
+<i class="fa-solid fa-scissors fa-rotate-270"></i>  Plastic Surgery  $199 span /vist
+
+
+col-2
+
+<i class="fa-solid fa-tooth"></i>  Teeth Whitening $299
+
+col-3
+<i class="fa-solid fa-heart-pulse"></i>  Heart Surgery   $399
+
+
+  <i class="fa-solid fa-circle-check"></i>
+
+  <i class="fa-solid fa-circle-xmark"></i>
+
+
+  22 Aug, 2023
+
+  0 Dec, 2023
+
+  1 Jan,2024
+
+
+<!-- selcat one option one -->
+  <!-- 
+  ----Department
+  ----Dental
+  ----Ophthalomology
+  ----Surgery
+  ----Childbrith
+  ----Intensive
+  ----Lab
+   -->
+
+
+
+
+<!-- texterea -->
+
+Write Your massage Here.....
+
+
+
+<!-- Footer -->
+
+aria-label="visit facebook">
+
+
+<!-- col-1 -->
+<i class="fa-brands fa-facebook"></i>
+<i class="fa-brands fa-google"></i>
+<i class="fa-brands fa-twitter"></i>
+<i class="fa-brands fa-vimeo-v"></i>
+<i class="fa-brands fa-pinterest-p"></i>
+
+
+
+<!-- col-2 -->
+<i class="fa-solid fa-caret-right"></i>
+
+
+
+<!-- col-4 -->
+<i class="fa-solid fa-paper-plane"></i>
+
+
